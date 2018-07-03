@@ -14,5 +14,5 @@ Test API Project
 3) Tests
 Run tests `./vendor/bin/simple-phpunit` on empty database
 
-Use testing token '9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08' in a header as 'HTTP_TOKEN' to access methods
+Use testing token `9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08` in a header as `HTTP_TOKEN` to access methods
 
