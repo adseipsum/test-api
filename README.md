@@ -1,4 +1,4 @@
-Test Api Project
+Test API Project
 1) Stack
 - PHP 5.6
 - MySQL 5.6.16
